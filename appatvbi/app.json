@@ -1,0 +1,12 @@
+{
+  "name": "appatvbi",
+  "displayName": "appatvbi",
+  "expo": {
+    "name": "appatvbi",
+    "slug": "appatvbi",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
